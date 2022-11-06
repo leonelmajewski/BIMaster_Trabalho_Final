@@ -10,3 +10,6 @@ A extração da base de dados foi realizada em formato .xlsx e apresem os campos
 
 Arquivos chamados encerrados:
 ![Arquivos de chamados encerrados](https://github.com/leonelmajewski/BIMaster_Trabalho_Final/blob/main/Tabela_1.png)
+
+Arquivo de pesquisas respondidas:
+![Arquivo de pesquisas respondidas](https://github.com/leonelmajewski/BIMaster_Trabalho_Final/blob/main/Tabela_2.png)
