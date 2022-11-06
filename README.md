@@ -14,9 +14,9 @@ Arquivos chamados encerrados:
 Arquivo de pesquisas respondidas:
 ![Arquivo de pesquisas respondidas](https://github.com/leonelmajewski/BIMaster_Trabalho_Final/blob/main/Tabela_2.png)
 
-**Observação 1:** O campo ID do Registro será utilizado como chave primária no tratamento inicial dos dados (join das tabelas) e será excluído após essa etapa, seguindo a premissa anonimização dos dados e não rastreabilidade.
+*_Observação 1:_* O campo ID do Registro será utilizado como chave primária no tratamento inicial dos dados (join das tabelas) e será excluído após essa etapa, seguindo a premissa anonimização dos dados e não rastreabilidade.
 
-**Observação 2:** A pesquisa de satisfação é formada por três itens, sendo duas questões e um campo aberto para Comentário.
+*_Observação 2:_* A pesquisa de satisfação é formada por três itens, sendo duas questões e um campo aberto para Comentário.
 
 Para fins de indicadores de processo, é contabilizado apenas os resultados da questão 1 e o indicador é calculado com base na fórmula:
 
