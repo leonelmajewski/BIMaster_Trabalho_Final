@@ -25,7 +25,9 @@ _Satisfação_ = (Quantidade de pesquisas com notas 4 e 5)/(Quantidade total de 
 As questões são:
 
 _1 – Como você avalia a sua experiência com esse serviço? (Escala de 5 = Muito Satisfeito a 1 = Muito Insatisfeito)_
+
 5	4	3	2	1
 
 _2 – O que motivou sua opinião? (1=Prazo de resposta; 2=Atendimento (Cordialidade/ Empatia); 3=Solução; 4=Facilidade de acesso ao serviço; 5=Outros)_
+
 5	4	3	2	1
