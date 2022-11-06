@@ -8,3 +8,4 @@ Por esse motivo, foi realizado um tratamento inicial nos arquivos-fonte, elimina
 
 A extração da base de dados foi realizada em formato .xlsx e apresem os campos listados abaixo:
 
+![Arquivos de chamados encerrados](https://github.com/leonelmajewski/BIMaster_Trabalho_Final/blob/main/Tabela_1.png)
