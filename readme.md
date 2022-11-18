@@ -39,9 +39,11 @@ Por esse motivo, foi realizado um tratamento inicial nos arquivos-fonte, elimina
 A extração da base de dados foi realizada em formato .xlsx e apresem os campos listados abaixo:
 
 Arquivos chamados encerrados:
+
 ![Arquivos de chamados encerrados](https://github.com/leonelmajewski/BIMaster_Trabalho_Final/blob/main/Tabela_1.png)
 
 Arquivo de pesquisas respondidas:
+
 ![Arquivo de pesquisas respondidas](https://github.com/leonelmajewski/BIMaster_Trabalho_Final/blob/main/Tabela_2.png)
 
 _Observação 1:_ O campo ID do Registro será utilizado como chave primária no tratamento inicial dos dados (join das tabelas) e será excluído após essa etapa, seguindo a premissa anonimização dos dados e não rastreabilidade.
