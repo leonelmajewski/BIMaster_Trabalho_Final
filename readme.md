@@ -23,17 +23,17 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 <!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+A análise da satisfação do usuário com os atendimentos realizados pelas equipes da TIC, obtida por meio de pesquisas de satisfações encaminhadas ao final de cada chamado aberto por este, é um importante recurso para mensurar a precepção sobre a prestação dos serviços de Tecnologia da Informação e Telecomunicações, bem como insumo para decisões em níveis estratégico e tático, além da identificação de melhorias nos processos de Atendimento e correlatos.
+
+O presente trabalho utiliza dados de atendimentos de TIC realizados na empresa Petroleo Brasileiro S.A. - Petrobras, no período de janeiro/2021 a setembro/2022, e tem por objetivo identificar tendências e, em especial, analisar o reflexo do tempo de atendimento dos chamados na satisfação demonstrada pelo usuário.
 
 ### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
 
 <!-- trocar o texto abaixo pelo resumo do trabalho, em inglês -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+Analysis of user satisfaction with the technical service provided by IT teams, collected through satisfaction surveys, is an important resource to measure the perception about Information Technology and Telecommunications services, as well as input for strategic and tatical, in addition to identifying improvements in service and related processes.
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
-
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+The present study examines data from IT services performed at Petroleo Brasileiro S.A. - Petrobras, from January/2021 to September/2022, and aims to identify trends and, in particular, analyze the impact of service time in the satisfaction demonstrated by the user.
 
 ### 1. Introdução
 
