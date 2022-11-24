@@ -67,15 +67,27 @@ _2 – O que motivou sua opinião? (1=Prazo de resposta; 2=Atendimento (Cordiali
 
 ### 3. Resultados
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+A análise do impacto do tempo de atendimento na satisfação do usuário demonstra que, quando considerados os registros de Incidentes e Satisfação dos usuários, evidencia o comprometimento do indicador quando o atendimento tem prazo superior a 20 minutos.
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+Entretanto, ao segregar a satisfação entre pesquisas que avaliam atendimento de Incidentes e pesquisas que avaliam Solicitações de Serviço, é evidenciad uma percepeção distinta, pelos usuários, quanto ao tempo de atendimento.
+
+No caso dos Incidentes, que evidenciam uma falha ou interrupção de serviço ou recurso, a urgência no tratamento é maior uma vez que pode impactar diretamente as atividades do usuário.
+
+No caso das Solicitações – pedido de recurso ou serviço adicional - o impacto é menor principalmente porque:
+
+  - Não costuma impactar as atividades rotineiras dos usuários, salvo se este espera uso imediato do novo recurso ou serviço;
+  
+  - Solicitações de Serviço podem ter prazos distintos para atendimento, a depender da complexidade e dos recursos envolvidos. A título de exemplo, o fornecimento de uma *webcam* que tenha estoque é menor do que o fornecimento de um *software* específico, que depende do processo de aquisição de licença e que, caso envolva processo de licitação, pode levar meses para ser disponibilizado ao usuário.
+  
+Vale reforçar que para as Solicitações de Serviço estão mapeados tempos específicos para cada situação, refletido na variável **SLA (Tempo disponível)**.
 
 ### 4. Conclusões
 
 A análise evidenciou que o tempo de atendimento é um fator determinante para a satisfação do usuário, quando atendido pela TIC.
-Atendimentos que resolvam os Incidentes e atendam as Solicitações resolvidos em até vinte minutos tendem a ter alto nível de favorabilidade (avaliação positiva) por parte dos usuários. 
-Importante salientar que atendimentos em prazos muito inferiores, embora aumentem a chance de satisfação, não devem ser priorizados caso o custo envolvido no atendimento seja alto. Vale ressaltar que o fator custo não foi considerado na análise em questão e pode ser tratado na evolução da análise ou em um processo distinto.
+
+Ficou evidente a importância de medir também a Satisfação dos atendimentos, de maneira segregada, para Incidentes e Solicitações de Serviço, de maneira distinta, de forma a obter informações adicionais sobre a percepção dos usuários quanto ao atendimento de suas necessidades de TIC.
+
+Convém salientar que atendimentos em prazos muito curtos, embora aumentem a chance de satisfação, não devem ser priorizados caso o custo envolvido no atendimento seja alto. Vale ressaltar que o fator custo não foi considerado na análise em questão e pode ser tratado na evolução da análise ou em um processo distinto.
   
 ---
 
