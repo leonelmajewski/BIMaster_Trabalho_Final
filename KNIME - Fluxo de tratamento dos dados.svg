@@ -90,19 +90,19 @@
                 <path d="M1328 78 L1430 78 L1430 125 L1328 125 L1328 78 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath26">
-                <path d="M1447 218 L1549 218 L1549 280 L1447 280 L1447 218 Z"/>
+                <path d="M1433 218 L1560 218 L1560 280 L1433 280 L1433 218 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath27">
                 <path d="M1472 78 L1570 78 L1570 140 L1472 140 L1472 78 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath28">
-                <path d="M1599 218 L1680 218 L1680 280 L1599 280 L1599 218 Z"/>
+                <path d="M1573 218 L1700 218 L1700 280 L1573 280 L1573 218 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath29">
                 <path d="M1604 78 L1710 78 L1710 125 L1604 125 L1604 78 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath30">
-                <path d="M1739 218 L1820 218 L1820 280 L1739 280 L1739 218 Z"/>
+                <path d="M1725 218 L1829 218 L1829 280 L1725 280 L1725 218 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath31">
                 <path d="M14 60 L98 60 L98 77 L14 77 L14 60 Z"/>
@@ -566,11 +566,11 @@
                   xml:space="preserve">ordem Mês/Ano</text><text x="1329"
                   y="120" clip-path="url(#clipPath25)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">de encerramento</text><text x="1464"
+                  xml:space="preserve">de encerramento</text><text x="1434"
                   y="230" clip-path="url(#clipPath26)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Ordenação</text><text x="1461" y="245"
-                  clip-path="url(#clipPath26)" fill="black"
+                  xml:space="preserve">Criação de ordenação</text><text x="1462"
+                  y="245" clip-path="url(#clipPath26)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">por Ano/Mês</text><text x="1448" y="260"
                   clip-path="url(#clipPath26)" fill="black"
@@ -590,16 +590,16 @@
                   xml:space="preserve">de resposta</text><text x="1481" y="135"
                   clip-path="url(#clipPath27)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">da pesquisa</text><text x="1604" y="230"
+                  xml:space="preserve">da pesquisa</text><text x="1574" y="230"
                   clip-path="url(#clipPath28)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Ordenação</text><text x="1601" y="245"
-                  clip-path="url(#clipPath28)" fill="black"
+                  xml:space="preserve">Criação de ordenação</text><text x="1602"
+                  y="245" clip-path="url(#clipPath28)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">por Ano/Mês</text><text x="1602" y="260"
                   clip-path="url(#clipPath28)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">de resposta</text><text x="1600" y="275"
+                  xml:space="preserve">de resposta</text><text x="1601" y="275"
                   clip-path="url(#clipPath28)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">da pesquisa</text><text x="1613" y="90"
@@ -611,19 +611,19 @@
                   xml:space="preserve">Motivo por número</text><text x="1625"
                   y="120" clip-path="url(#clipPath29)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">sequencial</text><text x="1744" y="230"
+                  xml:space="preserve">sequencial</text><text x="1726" y="230"
                   clip-path="url(#clipPath30)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Ordenação</text><text x="1741" y="245"
+                  xml:space="preserve">Criação de Motivo</text><text x="1734"
+                  y="245" clip-path="url(#clipPath30)" fill="black"
+                  font-family="&apos;Arial&apos;" stroke="none"
+                  xml:space="preserve">por número da</text><text x="1742"
+                  y="260" clip-path="url(#clipPath30)" fill="black"
+                  font-family="&apos;Arial&apos;" stroke="none"
+                  xml:space="preserve">resposta no</text><text x="1740" y="275"
                   clip-path="url(#clipPath30)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">por Ano/Mês</text><text x="1742" y="260"
-                  clip-path="url(#clipPath30)" fill="black"
-                  font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">de resposta</text><text x="1740" y="275"
-                  clip-path="url(#clipPath30)" fill="black"
-                  font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">da pesquisa</text>
+                  xml:space="preserve">questionário</text>
         </g><g stroke-width="5" font-weight="bold"
            font-family="&apos;Arial&apos;" stroke-linecap="butt">
             <text xml:space="preserve" x="15" y="72"
@@ -2186,11 +2186,11 @@ t++iSSnYYIYBDbH+++fPXwCTQTrJ2eP7AQAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
                   xml:space="preserve">ordem Mês/Ano</text><text x="1329"
                   y="120" clip-path="url(#clipPath25)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">de encerramento</text><text x="1464"
+                  xml:space="preserve">de encerramento</text><text x="1434"
                   y="230" clip-path="url(#clipPath26)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Ordenação</text><text x="1461" y="245"
-                  clip-path="url(#clipPath26)" fill="black"
+                  xml:space="preserve">Criação de ordenação</text><text x="1462"
+                  y="245" clip-path="url(#clipPath26)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">por Ano/Mês</text><text x="1448" y="260"
                   clip-path="url(#clipPath26)" fill="black"
@@ -2210,16 +2210,16 @@ t++iSSnYYIYBDbH+++fPXwCTQTrJ2eP7AQAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
                   xml:space="preserve">de resposta</text><text x="1481" y="135"
                   clip-path="url(#clipPath27)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">da pesquisa</text><text x="1604" y="230"
+                  xml:space="preserve">da pesquisa</text><text x="1574" y="230"
                   clip-path="url(#clipPath28)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Ordenação</text><text x="1601" y="245"
-                  clip-path="url(#clipPath28)" fill="black"
+                  xml:space="preserve">Criação de ordenação</text><text x="1602"
+                  y="245" clip-path="url(#clipPath28)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">por Ano/Mês</text><text x="1602" y="260"
                   clip-path="url(#clipPath28)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">de resposta</text><text x="1600" y="275"
+                  xml:space="preserve">de resposta</text><text x="1601" y="275"
                   clip-path="url(#clipPath28)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">da pesquisa</text><text x="1613" y="90"
@@ -2231,19 +2231,19 @@ t++iSSnYYIYBDbH+++fPXwCTQTrJ2eP7AQAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
                   xml:space="preserve">Motivo por número</text><text x="1625"
                   y="120" clip-path="url(#clipPath29)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">sequencial</text><text x="1744" y="230"
+                  xml:space="preserve">sequencial</text><text x="1726" y="230"
                   clip-path="url(#clipPath30)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Ordenação</text><text x="1741" y="245"
+                  xml:space="preserve">Criação de Motivo</text><text x="1734"
+                  y="245" clip-path="url(#clipPath30)" fill="black"
+                  font-family="&apos;Arial&apos;" stroke="none"
+                  xml:space="preserve">por número da</text><text x="1742"
+                  y="260" clip-path="url(#clipPath30)" fill="black"
+                  font-family="&apos;Arial&apos;" stroke="none"
+                  xml:space="preserve">resposta no</text><text x="1740" y="275"
                   clip-path="url(#clipPath30)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">por Ano/Mês</text><text x="1742" y="260"
-                  clip-path="url(#clipPath30)" fill="black"
-                  font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">de resposta</text><text x="1740" y="275"
-                  clip-path="url(#clipPath30)" fill="black"
-                  font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">da pesquisa</text>
+                  xml:space="preserve">questionário</text>
         </g><g text-rendering="optimizeLegibility" stroke-width="5"
            font-weight="bold" font-family="&apos;Arial&apos;"
            stroke-linecap="butt">
@@ -3451,76 +3451,76 @@ t++iSSnYYIYBDbH+++fPXwCTQTrJ2eP7AQAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
            font-family="&apos;Segoe UI&apos;" stroke="rgb(150,150,150)"
            stroke-width="2">
             <path fill="none"
-                  d="M1400 37 C1402 37 1406 37 1408 37 C1450 37 1418 167 1460 167 C1462 167 1466 167 1468 167"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1137 257 C1139 257 1143 257 1145 257 C1160 257 1183 257 1198 257 C1200 257 1204 257 1206 257"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1397 167 C1399 167 1403 167 1405 167 C1422 167 1443 186 1460 186 C1462 186 1466 186 1468 186"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1139 117 C1141 117 1145 117 1147 117 C1162 117 1183 117 1198 117 C1200 117 1204 117 1206 117"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
                   d="M879 177 C881 177 885 177 887 177 C919 177 926 257 958 257 C960 257 964 257 966 257"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1019 117 C1021 117 1025 117 1027 117 C1042 117 1065 117 1080 117 C1082 117 1086 117 1088 117"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1799 167 C1801 167 1805 167 1807 167 C1823 167 1844 177 1860 177 C1862 177 1866 177 1868 177"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M2039 177 C2041 177 2045 177 2047 177 C2062 177 2085 177 2100 177 C2102 177 2106 177 2108 177"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M80 97 C82 97 86 97 88 97 C122 97 147 167 181 167 C183 167 187 167 189 167"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1257 257 C1259 257 1263 257 1265 257 C1295 257 1308 186 1338 186 C1340 186 1344 186 1346 186"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1519 167 C1521 167 1525 167 1527 167 C1549 167 1578 186 1600 186 C1602 186 1606 186 1608 186"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M80 237 C82 237 86 237 88 237 C119 237 150 186 181 186 C183 186 187 186 189 186"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1257 117 C1259 117 1263 117 1265 117 C1291 117 1312 167 1338 167 C1340 167 1344 167 1346 167"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1017 257 C1019 257 1023 257 1025 257 C1040 257 1063 257 1078 257 C1080 257 1084 257 1086 257"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1919 177 C1921 177 1925 177 1927 177 C1942 177 1965 177 1980 177 C1982 177 1986 177 1988 177"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M240 167 C242 167 246 167 248 167 C269 167 299 177 320 177 C322 177 326 177 328 177"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M739 177 C741 177 745 177 747 177 C768 177 799 177 820 177 C822 177 826 177 828 177"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M879 177 C881 177 885 177 887 177 C915 177 932 117 960 117 C962 117 966 117 968 117"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M619 177 C621 177 625 177 627 177 C642 177 665 177 680 177 C682 177 686 177 688 177"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1680 37 C1682 37 1686 37 1688 37 C1730 37 1698 167 1740 167 C1742 167 1746 167 1748 167"
                   clip-path="url(#clipPath120)" fill-rule="evenodd"/>
             <path fill="none"
                   d="M498 177 C500 177 504 177 506 177 C522 177 544 177 560 177 C562 177 566 177 568 177"
                   clip-path="url(#clipPath120)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M379 177 C381 177 385 177 387 177 C402 177 424 177 439 177 C441 177 445 177 447 177"
-                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
-            <path fill="none"
                   d="M1540 37 C1542 37 1546 37 1548 37 C1590 37 1558 167 1600 167 C1602 167 1606 167 1608 167"
                   clip-path="url(#clipPath120)" fill-rule="evenodd"/>
             <path fill="none"
+                  d="M619 177 C621 177 625 177 627 177 C642 177 665 177 680 177 C682 177 686 177 688 177"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M80 97 C82 97 86 97 88 97 C122 97 147 167 181 167 C183 167 187 167 189 167"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M2039 177 C2041 177 2045 177 2047 177 C2062 177 2085 177 2100 177 C2102 177 2106 177 2108 177"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1519 167 C1521 167 1525 167 1527 167 C1549 167 1578 186 1600 186 C1602 186 1606 186 1608 186"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1680 37 C1682 37 1686 37 1688 37 C1730 37 1698 167 1740 167 C1742 167 1746 167 1748 167"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1397 167 C1399 167 1403 167 1405 167 C1422 167 1443 186 1460 186 C1462 186 1466 186 1468 186"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1799 167 C1801 167 1805 167 1807 167 C1823 167 1844 177 1860 177 C1862 177 1866 177 1868 177"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M739 177 C741 177 745 177 747 177 C768 177 799 177 820 177 C822 177 826 177 828 177"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1257 117 C1259 117 1263 117 1265 117 C1291 117 1312 167 1338 167 C1340 167 1344 167 1346 167"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M240 167 C242 167 246 167 248 167 C269 167 299 177 320 177 C322 177 326 177 328 177"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1400 37 C1402 37 1406 37 1408 37 C1450 37 1418 167 1460 167 C1462 167 1466 167 1468 167"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1019 117 C1021 117 1025 117 1027 117 C1042 117 1065 117 1080 117 C1082 117 1086 117 1088 117"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1137 257 C1139 257 1143 257 1145 257 C1160 257 1183 257 1198 257 C1200 257 1204 257 1206 257"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M80 237 C82 237 86 237 88 237 C119 237 150 186 181 186 C183 186 187 186 189 186"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1017 257 C1019 257 1023 257 1025 257 C1040 257 1063 257 1078 257 C1080 257 1084 257 1086 257"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1257 257 C1259 257 1263 257 1265 257 C1295 257 1308 186 1338 186 C1340 186 1344 186 1346 186"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M879 177 C881 177 885 177 887 177 C915 177 932 117 960 117 C962 117 966 117 968 117"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1919 177 C1921 177 1925 177 1927 177 C1942 177 1965 177 1980 177 C1982 177 1986 177 1988 177"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1139 117 C1141 117 1145 117 1147 117 C1162 117 1183 117 1198 117 C1200 117 1204 117 1206 117"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
                   d="M1659 167 C1661 167 1665 167 1667 167 C1689 167 1718 186 1740 186 C1742 186 1746 186 1748 186"
+                  clip-path="url(#clipPath120)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M379 177 C381 177 385 177 387 177 C402 177 424 177 439 177 C441 177 445 177 447 177"
                   clip-path="url(#clipPath120)" fill-rule="evenodd"/>
         </g>
     </g>
