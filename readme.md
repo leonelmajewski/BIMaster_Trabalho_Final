@@ -81,6 +81,10 @@ No caso das Solicitações – pedido de recurso ou serviço adicional - o impac
   
 Vale reforçar que para as Solicitações de Serviço estão mapeados tempos específicos para cada situação, refletido na variável **SLA (Tempo disponível)**.
 
+Ao analisar os demais motivos avaliados pelos usuários, chama a atenção que o fator mais favorável para avaliação do atendimento, seja de maneira favorável, seja de maneira não favorável, envolve a **Solução** aplicada pelos técnicos da TIC.
+
+Também chama a atenção o **Atendimento** como um motivo de favorabilidade, superando o **Prazo**.
+
 ### 4. Conclusões
 
 A análise evidenciou que o tempo de atendimento é um fator determinante para a satisfação do usuário, quando atendido pela TIC.
@@ -88,7 +92,11 @@ A análise evidenciou que o tempo de atendimento é um fator determinante para a
 Ficou evidente a importância de medir também a Satisfação dos atendimentos, de maneira segregada, para Incidentes e Solicitações de Serviço, de maneira distinta, de forma a obter informações adicionais sobre a percepção dos usuários quanto ao atendimento de suas necessidades de TIC.
 
 Convém salientar que atendimentos em prazos muito curtos, embora aumentem a chance de satisfação, não devem ser priorizados caso o custo envolvido no atendimento seja alto. Vale ressaltar que o fator custo não foi considerado na análise em questão e pode ser tratado na evolução da análise ou em um processo distinto.
-  
+
+Como o foco do presente estudo está no impacto do tempo de atendimento do usuário na sua satisfação, convém que dados relativos a **Solução** sejam levantados e analisados.
+
+Como o **Atendimento** engloba questões como Cordialidade, Atenção e Comunicação, reforça a importância de treinamentos e disseminação de boas práticas no âmbito comportamental, bem como a padronização do atendimento - uso de _scripts_ e padrões de interação com os usuários.
+
 ---
 
 Matrícula: 211.100.146
