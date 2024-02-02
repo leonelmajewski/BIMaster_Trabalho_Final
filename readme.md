@@ -69,7 +69,7 @@ _2 – O que motivou sua opinião? (1=Prazo de resposta; 2=Atendimento (Cordiali
 
 A análise do impacto do tempo de atendimento na satisfação do usuário demonstra que, quando considerados os registros de Incidentes e Satisfação dos usuários, evidencia o comprometimento do indicador quando o atendimento tem prazo superior a 20 minutos.
 
-Entretanto, ao segregar a satisfação entre pesquisas que avaliam atendimento de Incidentes e pesquisas que avaliam Solicitações de Serviço, é evidenciad uma percepeção distinta, pelos usuários, quanto ao tempo de atendimento.
+Entretanto, ao segregar a satisfação entre pesquisas que avaliam atendimento de Incidentes e pesquisas que avaliam Solicitações de Serviço, é evidenciada uma percepeção distinta, pelos usuários, quanto ao tempo de atendimento.
 
 No caso dos Incidentes, que evidenciam uma falha ou interrupção de serviço ou recurso, a urgência no tratamento é maior uma vez que pode impactar diretamente as atividades do usuário.
 
